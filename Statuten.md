@@ -38,24 +38,24 @@ Der HCR verurteilt die sexuelle Ausbeutung von Kindern und Jugendlichen. Daher i
 #### Mitgliederkategorien
 Der HCR umfasst folgende Mitgliederkategorien:
 
-##### Aktivmitglieder mit Lizenz  [AktivMitLizenz]  
+##### Aktivmitglieder mit Lizenz  
 Die Aktivmitgliedschaft mit Lizenz beginnt mit dem 19. Altersjahr (Berechnungsgrundlage: Jahrgang per Stichtag GV).
-##### Aktivmitglieder ohne Lizenz [AktivOhneLizenz]  
+##### Aktivmitglieder ohne Lizenz  
 Die Aktivmitgliedschaft beginnt mit dem 19. Altersjahr (Berechnungsgrundlage: Jahrgang per Stichtag GV).
-##### Juniorenmitglieder [Junior]
-###### mit Lizenz [JuniorMitLizenz]  
+##### Juniorenmitglieder
+###### mit Lizenz   
 Die Juniorenzeit endet mit dem 19. Altersjahr (Berechnungsgrundlage: Jahrgang per Stichtag GV).
-###### ohne Lizenz [JuniorOhneLizenz]  
+###### ohne Lizenz  
 Die Juniorenzeit endet mit dem 19. Altersjahr (Berechnungsgrundlage: Jahrgang per Stichtag GV).
-##### Ehrenmitglieder [Ehren]
-##### Freimitglieder [Frei]  
-##### Supporter (Passivmitglied) [Passiv]  
-Supporter sind Mitglieder ausserhalb der Kategorie [2.1 a)][AktivMitLizenz] bis [2.1 e)][Frei], welche den Verein mit einem jährlichen - von der GV festgelegten - Beitrag unterstützen. Die Mitglieder können sowohl natürliche Personen, wie auch juristische Personen sein.
+##### Ehrenmitglieder
+##### Freimitglieder
+##### Supporter (Passivmitglied)  
+Supporter sind Mitglieder ausserhalb der Kategorie [2.1 a)](#aktivmitglieder-mit-lizenz) bis [2.1 e)](#freimitglieder), welche den Verein mit einem jährlichen - von der GV festgelegten - Beitrag unterstützen. Die Mitglieder können sowohl natürliche Personen, wie auch juristische Personen sein.
 ##### Gönner [Gönner]  
 Gönner sind Einzelpersonen oder juristische Personen, welche dem Verein einen freien Einmalbeitrag leisten.
 
 #### Beitrittsgesuche
-Beitrittsgesuche der Mitgliederkategorien [2.1 a)][AktivMitLizenz] - [2.1 f)][Passiv] sind dem Verein formell einzureichen. Die Mitglieder werden provisorisch vom Vorstand und definitiv von der Generalversammlung aufgenommen.
+Beitrittsgesuche der Mitgliederkategorien [2.1 a)](#aktivmitglieder-mit-lizenz) - [2.1 f)](#supporter-passivmitglied) sind dem Verein formell einzureichen. Die Mitglieder werden provisorisch vom Vorstand und definitiv von der Generalversammlung aufgenommen.
 
 Jugendliche unter 16 Jahren bedürfen der Zustimmung der elterlichen Gewalt.
 
@@ -74,7 +74,7 @@ Der Austritt entbindet das Mitglied nicht von der Erfüllung seiner ganzjähri
 Mitglieder, die ihre Verpflichtungen gegenüber dem Verein nicht erfüllen, können durch den Vorstand vom Trainings- und Spielbetrieb ausgeschlossen werden. Im Weiteren kann die Generalversammlung - auf Antrag des Vorstandes - Mitglieder von der Mitgliederliste streichen.
 
 #### Versetzung
-Die Mitglieder der Kategorien [2.1 a)][AktivMitLizenz] und [2.1 c)][Junior], welche unentschuldigt längere Zeit das Training versäumen, können vom Vorstand zu den Supportern versetzt werden. Jedoch ohne Beitragsanspruch für das laufende Vereinsjahr.
+Die Mitglieder der Kategorien [2.1 a)](#aktivmitglieder-mit-lizenz) und [2.1 c)](#juniorenmitglieder), welche unentschuldigt längere Zeit das Training versäumen, können vom Vorstand zu den Supportern versetzt werden. Jedoch ohne Beitragsanspruch für das laufende Vereinsjahr.
 
 #### Ausschluss
 Mitglieder, welche die Statuten, Verträge und Reglemente des HCR oder des Verbandes vorsätzlich oder gröblich verletzen oder sich der Mitgliedschaft des HCR als unwürdig erweisen, können durch Beschluss der Generalversammlung ausgeschlossen werden.
@@ -99,7 +99,7 @@ Die Mitglieder sind verpflichtet, die Interessen des Vereins zu wahren, die Stat
 Sie nehmen aktiv am Vereinsgeschehen teil und stellen sich bei Vereinsanlässen zur Verfügung. Die Mitglieder können verpflichtet werden, in vertretbarem Ausmass gewisse Aufgaben im Rahmen des Vereins zu übernehmen und nach bestem Können auszuführen.
 
 #### Rechte von Mitgliedern
-Alle aktiven Mitglieder der Kategorie [2.1 a)][AktivMitLizenz] bis [2.1 e)][Frei] sind berechtigt, am Trainings-, Turnier-, und Spielbetrieb teilzunehmen.
+Alle aktiven Mitglieder der Kategorie [2.1 a)](#aktivmitglieder-mit-lizenz) bis [2.1 e)](#freimitglieder) sind berechtigt, am Trainings-, Turnier-, und Spielbetrieb teilzunehmen.
 
 #### Wahl- und Stimmrecht
 Sämtliche Aktiv-, Junioren-, Ehren- und Freimitglieder sind in den Generalversammlungen stimmberechtigt und haben das Recht, Anträge zu stellen.
@@ -203,15 +203,15 @@ Der Vorstand ist das ausführende Organ des HCR.
 Der Vorstand setzt sich mindestens aus 3 Mitgliedern zusammen (in der Regel 8):
 
 ##### Präsident
-##### Aktuar [Aktuar]
-##### Kassier [Kassier]
-##### TK-Chef [TK-Chef]
-##### PR-Chef [PR-Chef]
-##### J&S Coach [J+S-Coach]
-##### Event-Chef [Event-Chef]
-##### 1 Beisitzer [Beisitzer1]
+##### Aktuar
+##### Kassier
+##### TK-Chef
+##### PR-Chef
+##### J&S Coach
+##### Event-Chef
+##### 1 Beisitzer
 
-Die Vizepräsidentschaft ist eine Doppelfunktion, die von einem unter [3.9 b)][Aktuar] – [3.9 g)][Event-Chef] genannten Vorstandsmitglied übernommen wird.
+Die Vizepräsidentschaft ist eine Doppelfunktion, die von einem unter [3.9 b)](#aktuar) – [3.9 g)](#event-chef) genannten Vorstandsmitglied übernommen wird.
 
 Die Vorstandsmitglieder werden von der ordentlichen GV auf die Dauer von mindestens einem Jahr gewählt und können ihr Amt erst nach Ablauf dieser Zeit niederlegen. Der Rücktritt ist dem Präsidenten schriftlich, spätestens drei Monate vor der ordentlichen GV, mitzuteilen.
 
@@ -222,12 +222,12 @@ Sollte es sich erweisen, dass ein Vorstandsmitglied bzw. Funktionär seinen Ver
 
 Gegen diesen Entscheid kann das betroffene Mitglied innert 10 Tagen eine schriftlich begründete Beschwerde beim Vorstand einreichen. Der Vorstand nimmt schriftlich Stellung und begründet den Entscheid anlässlich der GV. Das betroffene Mitglied ist an die entsprechende GV einzuladen.
 
-#### Vorstandssitzungen [VS-Sitzungen]
+#### Vorstandssitzungen
 Der Vorstand tritt auf Einladung des Präsidenten zusammen. Diese Sitzungen finden i.d.R. mindestens quartalsweise statt. Die Einladung hat unter Angabe der Traktanden zu erfolgen.
 
 Für die Einberufung einer Vorstandssitzung bedarf es mindestens 1/3 der personellen Mitglieder des Vorstands.
 
-Vier Vorstandsmitglieder können zusammen eine Vorstandssitzung erwirken. Der Präsident hat diese analog [3.11][VS-Sitzungen] erster Abschnitt anzusetzen.
+Vier Vorstandsmitglieder können zusammen eine Vorstandssitzung erwirken. Der Präsident hat diese analog [3.11](#vorstandssitzungen) erster Abschnitt anzusetzen.
 
 #### Mehrheit
 Vorstands-Abstimmungen unterliegen dem einfachen Mehr, wobei der Vorsitzende bei Stimmgleichheit den Stichentscheid fällt.
