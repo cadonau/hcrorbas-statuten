@@ -145,8 +145,8 @@ Keine Zusatzbestimmungen
 #### Konstituierung
 Keine Zusatzbestimmungen
 #### Aufgabenbereich
-###### J&S-Coach  
-Der J&S-Coach ist zuständig für die Erstellung eines J&S-Jahres- / -Saisonsplan. Dazu ist eine Zusammenarbeit mit dem TK Chef erforderlich.  
+###### J+S-Coach  
+Der J+S-Coach ist zuständig für die Erstellung eines J+S-Jahres- / -Saisonsplan. Dazu ist eine Zusammenarbeit mit dem TK Chef erforderlich.  
 ###### Trainingsablauf  
 Die Trainingszeiten werden am Anfang der Saison bestimmt und auf der HCR Website publiziert.  
 ###### Spielbetrieb  
