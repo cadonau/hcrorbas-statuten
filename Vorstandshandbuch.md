@@ -25,6 +25,8 @@ Bespiele: 19.8 … (GV, 12.3.1983) oder (VS, 25.12.2005) etc.*
 #### *Gültigkeit und Visa*
 *Das HCR-Vorstandshandbuch ist jährlich an der GV vom jeweiligen Gesamtvorstand geschlossen zu unterzeichnen. Eine Kopie geht zu Händen der Funktionäre. Das Original ist vom Aktuar zu verwalten. Das Handbuch ist für Mitglieder jederzeit einsehbar.*
 
++++
+
 ## Name, Sitz und Zweck
 
 #### Namensgebung
@@ -339,6 +341,7 @@ Bussen sind im Allgemeinen in Form von Hilfeleistungen/-einsätzen auszusprechen
 - Abmeldungen sind jeweils fristengerecht schriftlich an den Aktuar zu melden.
 - Von Verband ausgesprochene Geldbussen und Administrativkosten an Spieler oder Funktionäre sind vom Verursacher persönlich und termingerecht zu begleichen. Der Verursacher kann beim Vorstand hinsichtlich der Unkostenübernahme rekurrieren. Der Vorstand kann nach gründlicher Überprüfung eine partielle oder ganzheitliche Rückerstattung der Unkosten aussprechen.
 
++++
 
 ## Schlussbestimmungen (HCR-Vorstandshandbuch)
 
