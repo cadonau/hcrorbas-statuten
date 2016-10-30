@@ -147,8 +147,8 @@ Keine Zusatzbestimmungen
 #### Konstituierung
 Keine Zusatzbestimmungen
 #### Aufgabenbereich
-###### J&S-Coach  
-Der J&S-Coach ist zuständig für die Erstellung eines J&S-Jahres- / -Saisonsplan. Dazu ist eine Zusammenarbeit mit dem TK Chef erforderlich.  
+###### J+S-Coach  
+Der J+S-Coach ist zuständig für die Erstellung eines J+S-Jahres- / -Saisonsplan. Dazu ist eine Zusammenarbeit mit dem TK Chef erforderlich.  
 ###### Trainingsablauf  
 Die Trainingszeiten werden am Anfang der Saison bestimmt und auf der HCR Website publiziert.  
 ###### Spielbetrieb  
@@ -158,7 +158,7 @@ Bekannte Änderungen oder weitere Informationen zum Spielbetrieb müssen vorgän
 ###### Trikot-Sätze  
 Der TK-Chef ist vor der Saison vom jeweiligen Mannschaftsbetreuer (in Absprache mit dem PR- Chef) über die Trikots der Mannschaft informiert zu werden.
 
-#### Sowohl der TK-Chef als auch der J&S-Coach formulieren allfällige Anträge zuhanden der Generalversammlung. [sic]
+#### Sowohl der TK-Chef als auch der J+S-Coach formulieren allfällige Anträge zuhanden der Generalversammlung. [sic]
 Keine Zusatzbestimmungen
 #### TK-Sitzungen
 Keine Zusatzbestimmungen
@@ -297,7 +297,7 @@ Wenn keine anderweitigen Instruktionen gegeben werden, sind bei Hilfseinsätzen 
 ## Spesenreglement
 
 #### Grundsatz[^VS_2012-08-06_Modifikation]
-Spesen (z.B. Sponsorenbewirtung, Trainingsartikel, etc.) sind kostenbewusst und zweckorientiert zu behandeln. Entsprechende Ausgaben müssen restriktiv gehandhabt werden und angemessen zum möglichen Vereinserfolg bzw. zur Vereinsführung stehen. Der Kassier ist über diese Auslagen (Trainingsartikel wie Bälle, Leibchen, Turnier- und Anlassausgaben, J&S-Auslagen, Sponsorenanlässe, Sponsorenbewirtung, Mannschaftsanlässe, etc.) zu informieren, sofern sie innerhalb des Budgets sind. Weitere Ausgaben sind im Vorstand zu beantragen bzw. zu besprechen.
+Spesen (z.B. Sponsorenbewirtung, Trainingsartikel, etc.) sind kostenbewusst und zweckorientiert zu behandeln. Entsprechende Ausgaben müssen restriktiv gehandhabt werden und angemessen zum möglichen Vereinserfolg bzw. zur Vereinsführung stehen. Der Kassier ist über diese Auslagen (Trainingsartikel wie Bälle, Leibchen, Turnier- und Anlassausgaben, J+S-Auslagen, Sponsorenanlässe, Sponsorenbewirtung, Mannschaftsanlässe, etc.) zu informieren, sofern sie innerhalb des Budgets sind. Weitere Ausgaben sind im Vorstand zu beantragen bzw. zu besprechen.
 
 #### Budget
 Den Funktionären wird auf jährlicher Basis ein Budget zur Verfügung gestellt, welches von der GV genehmigt worden ist.
@@ -306,7 +306,7 @@ Den Funktionären wird auf jährlicher Basis ein Budget zur Verfügung gestellt,
 Verbandsspesen bzw. -Zahlungen welche für Funktionärstätigkeiten ausgeschüttet werden, stehen den jeweiligen Funktionären zur freien Verfügung, als die waren:
 
 - Vergütungen für Schiedsrichtertätigkeit (Direktspesen VSR)
-- 100% der Vergütungen für J&S-Tätigkeit bzw. Ausbildung (z. B. J&S-Coach, Betreuer etc.).
+- 100% der Vergütungen für J+S-Tätigkeit bzw. Ausbildung (z. B. J+S-Coach, Betreuer etc.).
 
 #### Vergütung
 Das Vereinsorgan – insbesondere der Kassier – hat Sorge zu tragen, dass diese Vergütungen den berechtigten Personen fristgerecht ausbezahlt bzw. vergütet werden.
@@ -359,7 +359,7 @@ Rorbas, 17. Juni 2016
 | Die Aktuarin      | Federica Blumer   |                   |
 | Der Kassier       | Matthias Schellenberg |               |
 | Der PR-Chef       | Leandro Müller    |                   |
-| Der J&S-Coach     | Simon Schneiter   |                   |
+| Der J+S-Coach     | Simon Schneiter   |                   |
 | Der TK-Chef und Webmaster | Markus Cadonau |              |
 | Der Beisitzer I und Hallenchef | Stefan Lütscher |        |
 | Der Beisitzer II und PR-Assistent | Urs Vögeli |          |
