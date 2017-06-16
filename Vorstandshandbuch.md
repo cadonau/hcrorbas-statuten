@@ -187,8 +187,8 @@ Keine Zusatzbestimmungen
 #### Spielbetrieb-Änderungen[^VS_2012-08-06_Modifikation]
 Jegliche Änderung seitens SHV ist vorgängig mit dem TK-Chef zu besprechen. Die Trainer informieren den TK-Chef über Spiel- oder Turnierdatenänderungen und erhalten dessen Genehmigung. Für die Organisation der Spiel- oder Turnierdatenänderungen sind die Trainer selbst zuständig.
 
-#### Zeitnehmer[^VS_2012-08-06_Modifikation]
-Die Zeitnehmer sind ab Saison 05/06 keine offiziellen Funktionäre mehr, da sie vom Verband gestellt werden müssen. An jedem Spiel müssen mindestens ein lizenzierter Zeitnehmer und ein Sekretar anwesend sein. Mindestens einer dieser beiden muss volljährig sein. Der TK-Chef hat Sorge zu tragen, dass die Zeitnehmereinteilung frühzeitig vorgenommen wird.
+#### Zeitnehmer[^GV_2017-06-16]
+An jedem Spiel muss ein Zeitnehmer und ein Sekretär anwesend sein. Sofern vom Verband keine speziellen Anforderungen – wie in höheren Ligen – gelten, ist der Zeitnehmerverantwortliche des Vereins zuständig, dass entsprechend immer zwei richtig instruierte Personen die Aufgaben ausführen. Der TK-Chef hat Sorge zu tragen, dass die Zeitnehmereinteilung frühzeitig vorgenommen wird.
 
 #### Informationspflicht
 Alle Mitglieder (welche über U17 sind) sind aufgefordert, den Spielbetrieb inkl. Regulatoren im Eigeninteresse von der Internetseite des SHV (www.handball.ch) zu entnehmen und Folge zu leisten.
@@ -372,3 +372,4 @@ Rorbas, 17. Juni 2016
 [^GV_2013-06-14]: geändert (GV, 14.06.2013)
 [^VS_2016-02-09]: geändert (VS, 09.02.2016)
 [^GV_2016-06-17]: geändert (GV, 17.06.2016)
+[^GV_2017-06-16]: geändert (GV, 16.06.2017)
