@@ -348,17 +348,17 @@ Bussen sind im Allgemeinen in Form von Hilfeleistungen/-einsätzen auszusprechen
 ## Schlussbestimmungen (HCR-Vorstandshandbuch)
 
 #### Inkraftsetzung
-Das vorliegende HCR-Vorstandshandbuch tritt per Generalversammlung vom 17. Juni 2016 in Kraft und ersetzt alle vorhergehenden. Die Gültigkeit dieser Zusatzbestimmungen gilt bis auf Widerruf.
+Das vorliegende HCR-Vorstandshandbuch tritt per Generalversammlung vom 16. Juni 2017 in Kraft und ersetzt alle vorhergehenden. Die Gültigkeit dieser Zusatzbestimmungen gilt bis auf Widerruf.
 
 **Handballclub Rorbas**
 
-Rorbas, 17. Juni 2016
+Freienstein, 16. Juni 2017
 
 | Funktion          | Name              | Unterschrift      |
 |:------------------|:------------------|:------------------|
 | Der Präsident     | Hans-Jürg Enz     |                   |
 | Der Event-Chef und Vize-Präsident | Hannes Rusterholz |   |
-| Die Aktuarin      | Federica Blumer   |                   |
+| Die Aktuarin / Der Aktuar |           |                   |
 | Der Kassier       | Matthias Schellenberg |               |
 | Der PR-Chef       | Leandro Müller    |                   |
 | Der J+S-Coach     | Simon Schneiter   |                   |
