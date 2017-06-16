@@ -196,17 +196,19 @@ Alle Mitglieder (welche über U17 sind) sind aufgefordert, den Spielbetrieb inkl
 #### Bandenwerbung[^VS_2012-08-06_Modifikation]
 An jedem offiziellen Anlass sind die aktuellen Bandenwerbungen gut sichtbar und fachgerecht aufzuhängen. Dies liegt in der Verantwortung der Mannschaftsverantwortlichen, die für den Hallendienst eingeteilt sind. Der PR-Chef ist verantwortlich für die Aktualität der Bandenwerbung.
 
-#### Hallendienst (inkl. Buffet)
+#### Hallendienst (inkl. Buffet)[^GV_2017-06-16]
 Für den Hallendienst besteht eine Teilnahmepflicht und es können bei Nichterfüllung gem. Statut 2.8 Sanktionen ausgesprochen werden (siehe dazu auch Bussenkatalog Punkt 14).
 
 Die Einteilung des Hallendienstes erfolgt jeweils anfangs Vor- bzw. Rückrunde. Die Einteilung und Koordination ist fester Bestandteil des Aufgabenbereiches des TK-Chefs.
 
 Bei der Durchführung des Hallendienstes zeigt sich der Hallenchef verantwortlich. Der Hallenchef ist befugt, diese Verantwortung zu delegieren.
+Die Hallendienst-Checkliste ist zu beachten.
 
-#### Kiosk[^VS_2012-08-06_Zusatz]
+#### Kiosk[^GV_2017-06-16]
 Bei mehr als zwei Heimspielen werden am Kiosk Kuchen verkauft.
 Getränke im angemessenen Rahmen sind für die Helfer gratis.
-Der Verantwortliche der Mannschaft, die für den Hallendienst eingeteilt ist, überprüft den Kiosk nach Ende des Spieltages, stellt fest was eingekauft werden muss und informiert den TK-Chef.
+Der Verantwortliche der Mannschaft, die für den Hallendienst eingeteilt ist, überprüft den Kiosk nach Ende des Spieltages, stellt fest was eingekauft werden muss und informiert den Hallenchef.
+Die Hallendienst-Checkliste ist zu beachten.
 
 ## Ehrungen
 
