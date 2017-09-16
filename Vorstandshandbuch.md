@@ -112,7 +112,7 @@ Keine Zusatzbestimmungen
 #### Aufgaben
 Keine Zusatzbestimmungen
 #### Konstituierung
-###### Zusätzlich zum eiweiterten Vorstand in beratender Funktion gehören:
+###### Zusätzlich zum erweiterten Vorstand in beratender Funktion gehören:
 
 1. Webmaster / PR-Assistent I & II  
 2. Beisitzer II
