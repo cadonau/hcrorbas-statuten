@@ -348,24 +348,23 @@ Bussen sind im Allgemeinen in Form von Hilfeleistungen/-einsätzen auszusprechen
 ## Schlussbestimmungen (HCR-Vorstandshandbuch)
 
 #### Inkraftsetzung
-Das vorliegende HCR-Vorstandshandbuch tritt per Generalversammlung vom 23. Juli 2020 in Kraft und ersetzt alle vorhergehenden. Die Gültigkeit dieser Zusatzbestimmungen gilt bis auf Widerruf.
+Das vorliegende HCR-Vorstandshandbuch tritt per Generalversammlung vom 24. Juni 2021 in Kraft und ersetzt alle vorhergehenden. Die Gültigkeit dieser Zusatzbestimmungen gilt bis auf Widerruf.
 
 **Handballclub Rorbas**
 
-Rorbas, 23. Juli 2020
+Rorbas, 24. Juni 2021
 
 | Funktion          | Name              | Unterschrift      |
 |:------------------|:------------------|:------------------|
-| Der Präsident     | Hans-Jürg Enz     |                   |
-| Der Event-Chef und Vize-Präsident | Hannes Rusterholz |   |
+| Der Präsident     | Hannes Rusterholz |                   |
+| Der TK-Chef und Vize-Präsident | Martin van Tilborgh |    |
+| Die Event-Chefin / Der Event-Chef  |  |                   |
 | Der Aktuar        | Marco Kernen      |                   |
 | Der Kassier       | Stefan Bühler     |                   |
-| Der PR-Chef       |                   |                   |
+| Der PR-Chef       | Stephan Bauert    |                   |
 | Der J+S-Coach     | Simon Schneiter   |                   |
-| Der TK-Chef       | Martin van Tilborgh |                 |
-| Die Beisitzerin I / Der Beisitzer I | |                   |
+| Der Beisitzer I und Hallenchef | Johannes Bachmann |      |
 | Der Webmaster     | Markus Cadonau    |                   |
-| Die Hallenchefin / Der Hallenchef |   |                   |
 
 
 [^VS_2012-08-06_Modifikation]: geändert (VS, 06.08.2012)
